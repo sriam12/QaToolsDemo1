@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="50055" started-at="2020-03-26T15:11:36Z" finished-at="2020-03-26T15:12:26Z">
+    <groups>
+    </groups>
+    <test name="Free CRM App Test Cases" duration-ms="50055" started-at="2020-03-26T15:11:36Z" finished-at="2020-03-26T15:12:26Z">
+      <class name="PracticeTestCases.Window_handling_TestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:PracticeTestCases.Window_handling_TestCases@47c62251]" name="setUp" is-config="true" duration-ms="17222" started-at="2020-03-26T20:41:36Z" finished-at="2020-03-26T20:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_title()[pri:1, instance:PracticeTestCases.Window_handling_TestCases@47c62251]" name="verify_title" duration-ms="12860" started-at="2020-03-26T20:41:53Z" finished-at="2020-03-26T20:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_title -->
+        <test-method status="PASS" signature="Verify_PageSource()[pri:2, instance:PracticeTestCases.Window_handling_TestCases@47c62251]" name="Verify_PageSource" duration-ms="2807" started-at="2020-03-26T20:42:06Z" finished-at="2020-03-26T20:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_PageSource -->
+        <test-method status="PASS" signature="Verify_title()[pri:3, instance:PracticeTestCases.Window_handling_TestCases@47c62251]" name="Verify_title" duration-ms="16981" started-at="2020-03-26T20:42:09Z" finished-at="2020-03-26T20:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_title -->
+      </class> <!-- PracticeTestCases.Window_handling_TestCases -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
